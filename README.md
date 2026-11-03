@@ -4,7 +4,7 @@ A fan-made interface overhaul for OPTCG Sim. It only changes how the game looks 
 
 **[Download the latest version](https://github.com/Brayden-Brezden/OPTCG-UI-Overhaul/releases/latest)** (v1.5.0, made for OPTCG Sim 1.44a). Grab the `.zip` under "Assets".
 
-**[Join the Discord](https://discord.gg/A2zVg2dtv2)** for help, bug reports, new versions and card reveals.
+**[Join the Discord](https://discord.gg/A2zVg2dtv2)** for help, bug reports and new versions.
 
 ## Install
 
