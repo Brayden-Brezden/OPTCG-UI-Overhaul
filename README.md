@@ -4,6 +4,8 @@ A fan-made interface overhaul for OPTCG Sim. It only changes how the game looks 
 
 **[Download the latest version](https://github.com/Brayden-Brezden/OPTCG-UI-Overhaul/releases/latest)** (v1.5.0, made for OPTCG Sim 1.44a). Grab the `.zip` under "Assets".
 
+**[Join the Discord](https://discord.gg/A2zVg2dtv2)** for help, bug reports, new versions and card reveals.
+
 ## Install
 
 1. Close OPTCG Sim.
@@ -34,9 +36,9 @@ The full list is in the README inside the zip, and each release lists what's new
 - **Turn off** (keep everything): rename `winhttp.dll` to `winhttp.dll.off`. Rename it back to turn it on.
 - **Uninstall**: delete `winhttp.dll`, `doorstop_config.ini`, `.doorstop_version` and the `BepInEx` folder from your game folder, and `OPTCGSim_Data\StreamingAssets\UIOverhaul_Restore`. Your settings are in `%USERPROFILE%\AppData\LocalLow\Batsu\OPTCGSim\UIOverhaul`.
 
-## Reporting a bug
+## Help and bug reports
 
-Send `BepInEx\LogOutput.log` from your game folder, and an F9 screenshot if it's something you can see.
+Ask in **#help** or post in **#bug-reports** on the [Discord](https://discord.gg/A2zVg2dtv2). Attach `BepInEx\LogOutput.log` from your game folder, and an F9 screenshot if it's something you can see.
 
 ## Credits
 
