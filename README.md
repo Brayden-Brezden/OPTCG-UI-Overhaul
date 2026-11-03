@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" alt="OPTCG UI Overhaul icon"></p>
+
 # OPTCG UI Overhaul
 
 A fan-made interface overhaul for OPTCG Sim. It only changes how the game looks and adds conveniences. It never changes game rules, your matches or anything sent to other players.
