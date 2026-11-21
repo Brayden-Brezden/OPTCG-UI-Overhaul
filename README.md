@@ -4,7 +4,7 @@
 
 A fan-made interface overhaul for OPTCG Sim. It only changes how the game looks and adds conveniences. It never changes game rules, your matches or anything sent to other players.
 
-**[Download the latest version](https://github.com/Brayden-Brezden/OPTCG-UI-Overhaul/releases/latest)** (v1.5.0, made for OPTCG Sim 1.44a). Grab the `.zip` under "Assets".
+**[Download the latest version](https://github.com/Brayden-Brezden/OPTCG-UI-Overhaul/releases/latest)** (v1.5.1, made for OPTCG Sim 1.45b). Grab the `.zip` under "Assets".
 
 **[Join the Discord](https://discord.gg/A2zVg2dtv2)** for help, bug reports and new versions.
 
@@ -12,7 +12,7 @@ A fan-made interface overhaul for OPTCG Sim. It only changes how the game looks 
 
 1. Close OPTCG Sim.
 2. Right-click the zip > **Extract All...**, click **Browse...** and pick your OPTCG Sim folder (the one with `OPTCGSim.exe`), then click **Extract**. If Windows asks, choose **Replace the files in the destination**.
-3. Start the game. The first launch takes a few extra seconds. You'll see "OPTCG UI Overhaul v1.5.0 - F8 menu" in the bottom-left corner when it's working.
+3. Start the game. The first launch takes a few extra seconds. You'll see "OPTCG UI Overhaul v1.5.1 - F8 menu" in the bottom-left corner when it's working.
 
 Already using other BepInEx mods? Only copy `BepInEx\plugins\OPTCGUIOverhaul` into your existing `BepInEx\plugins` folder (the mod needs BepInEx 5, x64).
 
